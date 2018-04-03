@@ -1,0 +1,4 @@
+/system clock
+set time-zone-name=Asia/Makassar
+/system ntp client
+set enabled=yes primary-ntp=202.65.114.202 secondary-ntp=182.253.66.204
